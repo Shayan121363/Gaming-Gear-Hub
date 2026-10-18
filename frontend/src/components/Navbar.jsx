@@ -10,6 +10,7 @@ const Navbar = () => {
     { path: '/games', label: 'Free Games' },
     { path: '/gear', label: 'Gear Store' }
   ];
+  
 
   return (
     <nav className="navbar">

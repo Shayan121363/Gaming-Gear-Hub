@@ -22,6 +22,7 @@ const Footer = () => {
             </div>
           </div>
 
+
           <div style={{ flex: '1 1 150px' }}>
             <h4 style={{ marginBottom: '1rem' }}>Quick Links</h4>
             <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>

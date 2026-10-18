@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  
   "dependencies": {
     "@clerk/clerk-react": "^5.61.6",
     "@stripe/react-stripe-js": "^6.3.0",

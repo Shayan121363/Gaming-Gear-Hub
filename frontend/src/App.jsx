@@ -8,6 +8,7 @@ import ProductDetail from './pages/ProductDetail';
 import Admin from './pages/Admin';
 import Footer from './components/Footer';
 
+
 function App() {
   return (
     <Router>
