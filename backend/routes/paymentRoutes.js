@@ -10,6 +10,7 @@ router.post('/create-payment-intent', async (req, res) => {
   
        return res.json({ clientSecret: 'pi_dummy_secret_dummy' });
     }
+    
 
     const paymentIntent = await stripe.paymentIntents.create({
       amount,

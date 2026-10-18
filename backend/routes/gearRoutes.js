@@ -12,6 +12,7 @@ router.get('/', async (req, res) => {
   }
 });
 
+
 // Get gear by ID
 router.get('/:id', async (req, res) => {
   try {
