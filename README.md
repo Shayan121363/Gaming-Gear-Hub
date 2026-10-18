@@ -211,7 +211,7 @@ Please keep contributions respectful, constructive, and focused on improving the
 
 ## 📞 Contact
 
-**Project Creator & Maintainer:** Your Name
+**Project Creator & Maintainer:** Shayan Ahmed
 
 - **GitHub:** (https://github.com/Shayan121363)
 - **LinkedIn:** (https://www.linkedin.com/in/shayan-ahmed-dev)
